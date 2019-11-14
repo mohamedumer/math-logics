@@ -1,0 +1,2 @@
+
+	SELECT Director,sum( Length_minutes) FROM movies group by director ;
